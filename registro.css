@@ -1,0 +1,77 @@
+body {
+    background-image: url(imagen-background.jpg);
+    width: 1305px;
+}
+h1 { 
+    font-size: 120px;
+    color: #FFD2FB;
+    font-family: "allura";
+    margin: 50px;
+    text-align: center;
+}
+.contenedor-formulario { 
+    background-color: #FFD2FB;
+    color: #246D6F;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 100px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.contenedor-formulario h2 {
+    text-align: center;
+    color: white;
+    margin-bottom: 5px;
+    font-size: 25px;
+    font-family: "kadwa";
+}
+#primera-linea input {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+    -webkit-text-fill-color: #c3c3c3 ;
+    font-family: "kadwa";
+    border-radius: 13px;
+}
+#segunda-linea input {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+    -webkit-text-fill-color: #c3c3c3 ;
+    font-family: "kadwa";
+    border-radius: 13px;
+}
+#tercera-linea input {
+    font-size: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 10px;
+    -webkit-text-fill-color: #c3c3c3 ;
+    font-family: "kadwa";
+    border-radius: 13px;
+}
+#boton-registro input {
+    font-size: 15px;
+    font-family: "kadwa";
+    background-color: #246D6F;
+    color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+
+

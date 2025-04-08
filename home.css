@@ -1,0 +1,225 @@
+body {
+    background-image: url(imagen-background.jpg);
+    width: 1305px;
+    
+}
+.menu li {
+    list-style: none;
+    margin-right: 25px;
+    
+}
+.menu ul {
+    display: flex;
+}
+.menu {
+    background-color: #FFD2FB;
+    text-decoration: underline;
+    display: flex;
+    justify-content: center;
+    font-family: "K2D";
+    font-size: 20;
+    color: #246D6F;
+}
+menu.abajo {
+    background-color: #FFD2FB;
+}
+
+.botonreserva {
+    background: white ;
+    font-family: "K2D";
+    text-decoration: underline;
+    color: #246D6F;
+    padding: 5px;
+    border-radius: 5px;
+}
+    
+.botonsesion {
+    background: white ;
+    font-family: "K2D";
+    text-decoration: underline;
+    color: #246D6F;
+    padding: 5px;
+    border-radius: 5px;
+}
+.boton-info {
+    background: white ;
+    font-family: "K2D";
+    text-decoration: underline;
+    color: #246D6F;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+.informacion {
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.titulo {
+    font-size: 40px;
+    color: white;
+    stroke: #FFD2FB;
+    font-family: "kadwa";
+    padding-top: 5px;
+}
+
+.nombre {
+    font-size: 120px;
+    color: #FFD2FB;
+    font-family: "allura";
+    margin: 50px;
+}
+
+.descripcion {
+    font-size: 30px;
+    color: white;
+    stroke: #939594;
+    font-family: "kadwa";
+}
+
+a {
+    font-family: "K2D";
+    color: #246D6F;
+}
+
+#habitaciones {
+    background-color: #246D6F;
+    width: 1295px;
+    height: 725px;
+    
+}
+#habitaciones img {
+    width: 100%;
+}
+
+h4 {
+    text-align: center;
+    font-size: 40px;
+    font-family: "kadwa";
+    color: white;
+    stroke: #FFD2FB;
+    
+
+}
+
+.contenedorhabitaciones {
+    display: flex;
+    justify-content: space-around;
+}
+
+.habitacion1 {
+    width:285px;
+    height: 440px ;
+    background-color: #FFD2FB;
+    font-family: "K2D";
+    color: #246D6F;
+    
+    
+    
+}
+.habitacion2 {
+    width:285px;
+    height: 440px ;
+    background-color: #FFD2FB;
+    font-family: "K2D";
+    color: #246D6F;
+    
+}
+.habitacion3 {
+    width:285px;
+    height: 440px ;
+    background-color: #FFD2FB;
+    font-family: "K2D";
+    color: #246D6F;
+    
+}
+#titulo-habitacion {
+    text-align: center;
+}
+.contenedor-reseñas {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30PX;
+}
+
+.reseña1 {
+    width:285px;
+    height: 440px ;
+    background-color: #FFD2FB;
+    font-family: "K2D";
+    color: #246D6F;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: tiny;
+}
+.reseña1 p {
+    font-weight: lighter;
+}
+.reseña2 p {
+    font-weight: lighter;
+}
+.reseña3 p {
+    font-weight: lighter;
+}
+.reseña2 {
+    background-color: #FFD2FB;
+    width:285px;
+    height: 440px ;
+    background-color: #FFD2FB;
+    font-family: "K2D";
+    color: #246D6F;
+    padding: 20px;
+    font-size: 25px;
+}
+.reseña3 {
+    background-color: #FFD2FB;
+    width:285px;
+    height: 440px ;
+    background-color: #FFD2FB;
+    font-family: "K2D";
+    color: #246D6F;
+    padding: 20px;
+    font-size: 25px;
+}
+#contacto {
+    background-color: #246D6F;
+    width: 1295px;
+    height: 725px;
+    
+}
+.contenedor-contacto {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    
+}
+#lista-contactos {
+    background-color: #FFD2FB;
+    text-align: center;
+    font-family: "K2D";
+    color: #246D6F;
+    font-size: 30px;
+    justify-content: center;
+    padding: 20px;    
+}
+#lista-contactos li {
+    list-style: none;
+    margin-bottom: 20px;
+    
+}
+.sticky {
+    background-color: #FFD2FB;
+    text-decoration: underline;
+    display: flex;
+    justify-content: center;
+    font-family: "K2D";
+    font-size: 20;
+    color: #246D6F;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
+
